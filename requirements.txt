@@ -1,2 +1,5 @@
 voila
-geemap
+# geemap
+imgur-uploader
+ffmpeg-python
+git+git://github.com/giswqs/geemap.git
