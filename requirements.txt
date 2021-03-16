@@ -1,3 +1,2 @@
 voila
-# geemap
 git+git://github.com/giswqs/geemap.git
