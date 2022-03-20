@@ -1,3 +1,4 @@
+voila==0.3.0
 geemap
 leafmap
 
