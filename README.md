@@ -1,6 +1,6 @@
 # earthengine-apps
 
-Python scripts for deploying Earth Engine Apps to heroku, try it out: <https://geemap-demo.herokuapp.com/>
+**Heroku has stopped offering free product plans since November 2022. This repository is no longer maintained. I recommend deploying Earth Engine Apps to Hugging Face. Check out this new repo: <https://github.com/opengeos/voila-geospatial>**
 
 ## How to deploy your own Earth Engine Apps?
 
